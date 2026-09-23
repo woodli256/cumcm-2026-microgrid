@@ -46,4 +46,6 @@ python scripts/compare_workbooks.py --expected results --actual "<外部计算�
 
 本次复核的环境与结果见 `VERIFICATION.md`。
 
-本仓库未附加开源许可证。论文、代码和结果的再利用权限请向作者确认。
+## 开源许可
+
+本仓库的代码、结果表、论文、说明文档和 Codex Skills 均采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可。转载、使用或改编时，请注明来源并标明所作修改；完整条款见 `LICENSE`。
