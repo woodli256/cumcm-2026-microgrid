@@ -1,0 +1,5 @@
+-r requirements.txt
+matplotlib==3.10.8
+# 下列包仅用于增强绘图表现；缺失时部分程序有内置退化处理。
+seaborn
+adjustText

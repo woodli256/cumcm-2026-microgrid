@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mplconfig/
+.pytest_cache/
+*.npz
+/data/
+/runs/
+/work/
+/outputs/
+/表格/
